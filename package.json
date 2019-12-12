@@ -1,6 +1,6 @@
 {
   "name": "resolve-tagged-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Resolves a tagged template literal into a string. This is helpful when implementing tag functions that are not interested in the placeholders but only in the resulting string.",
   "bugs": {
     "url": "https://github.com/dword-design/resolve-tagged-template/issues"
