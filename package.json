@@ -17,6 +17,9 @@
     "start": "base start",
     "test": "base test"
   },
+  "dependencies": {
+    "@dword-design/functions": "^2.2.2"
+  },
   "devDependencies": {
     "@dword-design/base": "^3.4.3",
     "@dword-design/base-config-node": "^1.3.2",
