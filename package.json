@@ -21,7 +21,7 @@
     "@dword-design/functions": "^2.2.2"
   },
   "devDependencies": {
-    "@dword-design/base": "^3.4.3",
+    "@dword-design/base": "^4.0.0",
     "@dword-design/base-config-node": "^1.3.2",
     "expect": "^24.9.0"
   },
