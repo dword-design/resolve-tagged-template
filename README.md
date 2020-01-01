@@ -30,7 +30,8 @@ Resolves a tagged template literal into a string. This is helpful when implement
 <a href="https://npmjs.com" title="npm is a package manager for javascript"><h3>npm</h3></a>
 <ul>
 <li>Install: <code>npm install --save resolve-tagged-template</code></li>
-<li>Require: <code>require('resolve-tagged-template')</code></li>
+<li>Import: <code>import * as pkg from ('resolve-tagged-template')</code></li>
+<li>Require: <code>const pkg = require('resolve-tagged-template')</code></li>
 </ul>
 
 <!-- /INSTALL -->
