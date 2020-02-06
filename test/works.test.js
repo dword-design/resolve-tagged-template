@@ -1,5 +1,4 @@
 import resolveTaggedTemplate from 'resolve-tagged-template'
-import expect from 'expect'
 
 export default () => {
   expect(resolveTaggedTemplate(['foo'])).toEqual('foo')
