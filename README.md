@@ -30,7 +30,7 @@ $ yarn add resolve-tagged-template
 ```
 <!-- /INSTALL -->
 
-# Usage
+## Usage
 
 ```js
 import resolveTaggedTemplate from 'resolve-tagged-template'
