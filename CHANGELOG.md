@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/dword-design/resolve-tagged-template/compare/v1.0.5...v1.0.6) (2020-02-22)
+
+
+### Bug Fixes
+
+* adjust heading levels ([1c66e9b](https://github.com/dword-design/resolve-tagged-template/commit/1c66e9bba496243e75944805395823f9b9a1b71c))
+
 ## [1.0.5](https://github.com/dword-design/resolve-tagged-template/compare/v1.0.4...v1.0.5) (2020-02-18)
 
 
