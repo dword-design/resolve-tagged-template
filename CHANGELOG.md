@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/dword-design/resolve-tagged-template/compare/v1.0.6...v1.0.7) (2021-02-16)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @dword-design/base to v7 ([#18](https://github.com/dword-design/resolve-tagged-template/issues/18)) ([53435b8](https://github.com/dword-design/resolve-tagged-template/commit/53435b83a6faa4479e26b69713cb5bc07716c0ac))
+
 ## [1.0.6](https://github.com/dword-design/resolve-tagged-template/compare/v1.0.5...v1.0.6) (2020-02-22)
 
 
