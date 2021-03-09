@@ -3,7 +3,7 @@
 <!-- /TITLE -->
 
 <!-- BADGES/ -->
-[![NPM version](https://img.shields.io/npm/v/resolve-tagged-template.svg)](https://npmjs.org/package/resolve-tagged-template)
+[![npm version](https://img.shields.io/npm/v/resolve-tagged-template.svg)](https://npmjs.org/package/resolve-tagged-template)
 ![Linux macOS Windows compatible](https://img.shields.io/badge/os-linux%20%7C%C2%A0macos%20%7C%C2%A0windows-blue)
 [![Build status](https://github.com/dword-design/resolve-tagged-template/workflows/build/badge.svg)](https://github.com/dword-design/resolve-tagged-template/actions)
 [![Coverage status](https://img.shields.io/coveralls/dword-design/resolve-tagged-template)](https://coveralls.io/github/dword-design/resolve-tagged-template)
@@ -41,7 +41,7 @@ Resolves a tagged template literal into a string. This is helpful when implement
 ## Install
 
 ```bash
-# NPM
+# npm
 $ npm install resolve-tagged-template
 
 # Yarn
