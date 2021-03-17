@@ -3,6 +3,7 @@
   "version": "1.0.8",
   "description": "Resolves a tagged template literal into a string. This is helpful when implementing tag functions that are not interested in the placeholders but only in the resulting string.",
   "repository": "dword-design/resolve-tagged-template",
+  "funding": "https://www.buymeacoffee.com/dword",
   "license": "MIT",
   "author": "Sebastian Landwehr <info@dword-design.de>",
   "main": "dist/index.js",
