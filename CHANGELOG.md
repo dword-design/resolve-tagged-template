@@ -1,3 +1,10 @@
+## [1.0.10](https://github.com/dword-design/resolve-tagged-template/compare/v1.0.9...v1.0.10) (2021-03-22)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#23](https://github.com/dword-design/resolve-tagged-template/issues/23)) ([3677d80](https://github.com/dword-design/resolve-tagged-template/commit/3677d8027124d44384b2affe71e8970e746631ec))
+
 ## [1.0.9](https://github.com/dword-design/resolve-tagged-template/compare/v1.0.8...v1.0.9) (2021-03-17)
 
 
